@@ -1,0 +1,36 @@
+[COMIDA         3303
+SERVIÇO        3106
+AMBIENTE       1362
+GERAL          1327
+LOCALIZAÇÃO     516
+BEBIDA          378
+PREÇO           365
+Name: Classe, dtype: int64, COMIDA         3370
+SERVIÇO        3171
+AMBIENTE       1385
+GERAL          1288
+LOCALIZAÇÃO     491
+PREÇO           389
+BEBIDA          388
+Name: Classe, dtype: int64, COMIDA         3343
+SERVIÇO        3217
+AMBIENTE       1384
+GERAL          1224
+LOCALIZAÇÃO     499
+PREÇO           403
+BEBIDA          398
+Name: Classe, dtype: int64, COMIDA         3340
+SERVIÇO        3196
+AMBIENTE       1348
+GERAL          1281
+LOCALIZAÇÃO     501
+BEBIDA          385
+PREÇO           382
+Name: Classe, dtype: int64, COMIDA         3424
+SERVIÇO        3118
+AMBIENTE       1373
+GERAL          1300
+LOCALIZAÇÃO     521
+PREÇO           397
+BEBIDA          395
+Name: Classe, dtype: int64]
